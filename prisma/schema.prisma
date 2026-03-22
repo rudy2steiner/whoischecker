@@ -1,0 +1,40 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  // Use Supabase pooler URL with `?pgbouncer=true` for serverless. For `prisma db push` / migrate, use a
+  // direct :5432 URL in DATABASE_URL temporarily, or set DIRECT_URL only in a separate .env for CLI (see Prisma + Supabase docs).
+  url      = env("DATABASE_URL")
+}
+
+/// WHOIS/RDAP API cache; see `supabase/migrations/`.
+model DomainWhoisCache {
+  fqdn   String @id
+  /// Second-level / requested label only, without TLD (e.g. `example` for `example.com`). Not the full hostname.
+  domainName String @map("domain_name")
+  tld        String
+
+  /// Lookup result: available | unavailable | error
+  status String
+
+  registrar       String?
+  /// Registration / creation date from WHOIS/RDAP when known.
+  registeredAt    DateTime? @map("registered_at") @db.Timestamptz(6)
+  /// Domain registry expiry when known (not cache TTL).
+  domainExpiresAt DateTime? @map("domain_expires_at") @db.Timestamptz(6)
+
+  payload   Json
+  cachedAt  DateTime @default(now()) @map("cached_at") @db.Timestamptz(6)
+  /// Cache row TTL (when this cached response expires).
+  expiresAt DateTime @map("expires_at") @db.Timestamptz(6)
+
+  /// How many times this FQDN was looked up via the API (best-effort when DB is off).
+  queryCount Int @default(0) @map("query_count")
+
+  @@index([expiresAt])
+  @@index([status])
+  @@index([domainExpiresAt])
+  @@map("domain_whois_cache")
+}

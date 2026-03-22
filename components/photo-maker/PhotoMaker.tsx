@@ -119,7 +119,18 @@ export function PhotoMaker() {
     }
   };
 
+  /** WHOIS/RDAP + fallbacks can be slow; .me / .xyz often need extra time (thin WHOIS, RDAP hops). */
+  const DOMAIN_CHECK_TIMEOUT_MS = 120_000;
+  const DOMAIN_CHECK_TIMEOUT_SLOW_TLDS_MS = 240_000;
+  const SLOW_CLIENT_TLDS = new Set(['me', 'xyz']);
+
+  const getDomainCheckTimeoutMs = (tld: string) =>
+    SLOW_CLIENT_TLDS.has(tld.toLowerCase())
+      ? DOMAIN_CHECK_TIMEOUT_SLOW_TLDS_MS
+      : DOMAIN_CHECK_TIMEOUT_MS;
+
   const checkDomain = async (domainName: string, tld: string) => {
+    const timeoutMs = getDomainCheckTimeoutMs(tld);
     try {
       const response = await fetch('/api/domain', {
         method: 'POST',
@@ -127,21 +138,30 @@ export function PhotoMaker() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({ domain: domainName, tld }),
-        signal: AbortSignal.timeout(5000)
+        signal: AbortSignal.timeout(timeoutMs),
       });
 
       if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.error || t('common.domain.error'));
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(
+          (errorData as { error?: string }).error || t('common.domain.error')
+        );
       }
 
       return await response.json();
     } catch (error) {
+      const message =
+        error instanceof Error ? error.message : String(error);
+      const isTimeout =
+        message.includes('aborted') ||
+        (error instanceof DOMException && error.name === 'TimeoutError');
       console.error('Error checking domain:', error);
-      return { 
-        tld, 
-        status: 'error',
-        error: error.message 
+      return {
+        tld,
+        status: 'error' as const,
+        error: isTimeout
+          ? `${t('common.error.timeout')} (${timeoutMs / 1000}s)`
+          : message,
       };
     }
   };
@@ -165,7 +185,7 @@ export function PhotoMaker() {
 
     if (!domainName) {
       toast({
-        title: t('common.error'),
+        title: t('common.error.title'),
         description: t('common.domain.invalidDomain'),
         variant: 'destructive',
       });
@@ -180,18 +200,25 @@ export function PhotoMaker() {
         const result = await checkDomain(domainName, specificTld);
         setDomainStatuses([result]);
       } else {
-        // Check all configured TLDs
-        setDomainStatuses(prev =>
-          prev.map(item => ({ ...item, status: 'checking' }))
+        // Check all configured TLDs in parallel; apply each result as soon as it returns so slow TLDs don't block fast ones.
+        setDomainStatuses((prev) =>
+          prev.map((item) => ({ ...item, status: 'checking' as const }))
         );
-        const results = await Promise.all(
-          tlds.map(tld => checkDomain(domainName, tld))
+        await Promise.allSettled(
+          tlds.map((tld) =>
+            checkDomain(domainName, tld).then((result) => {
+              setDomainStatuses((prev) =>
+                prev.map((item) =>
+                  item.tld === tld ? { ...item, ...result } : item
+                )
+              );
+            })
+          )
         );
-        setDomainStatuses(results);
       }
     } catch (error) {
       toast({
-        title: t('common.error'),
+        title: t('common.error.title'),
         description: t('common.domain.checkFailed'),
         variant: 'destructive',
       });
