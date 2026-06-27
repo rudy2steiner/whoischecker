@@ -8,7 +8,6 @@ import { I18nProvider } from '@/app/i18n/provider';
 import { locales, isValidLocale } from '@/app/i18n/config';
 import { Metadata } from 'next';
 import '../globals.css';
-import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -60,7 +59,6 @@ export default async function LocaleLayout({
           </div>
           <Toaster />
         </I18nProvider>
-        <Analytics />
       </body>
     </html>
   );

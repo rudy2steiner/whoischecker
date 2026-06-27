@@ -1,0 +1,26 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "whoischecker",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-06-27",
+  "compatibility_flags": [
+    // Required: enables Node.js APIs (Buffer, crypto, net, tls, dns, ...) that
+    // Next.js and the `pg`/`whois` libraries rely on at runtime.
+    "nodejs_compat"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "observability": {
+    "enabled": true
+  }
+  // Secrets such as DATABASE_URL are configured with:
+  //   wrangler secret put DATABASE_URL
+  // Non-secret vars (cache TTLs) can go in a top-level "vars" object, e.g.:
+  // "vars": {
+  //   "DOMAIN_CACHE_TTL_UNAVAILABLE_SECONDS": "3600",
+  //   "DOMAIN_CACHE_TTL_AVAILABLE_SECONDS": "300",
+  //   "DOMAIN_CACHE_TTL_ERROR_SECONDS": "0"
+  // }
+}

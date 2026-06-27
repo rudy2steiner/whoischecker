@@ -84,3 +84,11 @@ const nextConfig = {
 };
 
 module.exports = withNextIntl(nextConfig);
+
+// Makes Cloudflare bindings (env vars, KV, etc.) available via `getCloudflareContext`
+// during local `next dev`. No-op outside of development.
+if (process.env.NODE_ENV === 'development') {
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
+  const { initOpenNextCloudflareForDev } = require('@opennextjs/cloudflare');
+  initOpenNextCloudflareForDev();
+}

@@ -1,5 +1,7 @@
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  // Required to run Prisma on Cloudflare Workers via the `pg` driver adapter.
+  previewFeatures = ["driverAdapters"]
 }
 
 datasource db {
