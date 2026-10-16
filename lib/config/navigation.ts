@@ -1,6 +1,7 @@
 export const navigationConfig = {
   mainNav: [
     { href: '/', label: 'nav.home' },
+    { href: '/million-dollar-domains', label: 'nav.millionDollarDomains' },
     { href: '/blog', label: 'nav.blog' }
   ]
 } as const;

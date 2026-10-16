@@ -1,0 +1,6491 @@
+{
+  "auditedAt": "2026-10-16",
+  "rankingSource": "Brand Finance Global 500 2026 official API",
+  "logoSource": "Brand Finance official logo assets",
+  "total": 500,
+  "records": [
+    {
+      "rank": 1,
+      "name": "Apple",
+      "domain": "apple.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "apple.com",
+        "applemusic.com",
+        "applefcu.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 2,
+      "name": "Microsoft",
+      "domain": "microsoft.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "microsoft.com",
+        "office.com",
+        "microsoft.ai"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 3,
+      "name": "Google",
+      "domain": "google.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "google.com",
+        "googleblog.com",
+        "safety.google"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 4,
+      "name": "Amazon",
+      "domain": "amazon.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "amazon.com",
+        "amazon.in",
+        "amazonaws.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 5,
+      "name": "NVIDIA",
+      "domain": "nvidia.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nvidia.com",
+        "geforce.com",
+        "nvidianews.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 6,
+      "name": "TikTok/Douyin",
+      "domain": "tiktok.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "tiktok.com",
+        "requestverificationform.com",
+        "tiktokshop.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 7,
+      "name": "Walmart",
+      "domain": "walmart.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "walmart.com",
+        "walmartmoneycard.com",
+        "walmartcanada.ca"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 8,
+      "name": "Samsung Group",
+      "domain": "samsung.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "samsung.com",
+        "samsungcard.com",
+        "smartthings.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 9,
+      "name": "Facebook",
+      "domain": "facebook.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "facebook.com",
+        "workplace.com",
+        "devchulikhabar.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 10,
+      "name": "State Grid Corporation of China",
+      "domain": "sgcc.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sgcc.com.cn",
+        "stategrid.com.br",
+        "texas.gov"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 11,
+      "name": "T",
+      "domain": "telekom.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "t.me",
+        "twitch.tv",
+        "tiktok.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 12,
+      "name": "ICBC",
+      "domain": "icbc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "icbc-ltd.com",
+        "icbc.com.ar",
+        "internationalcbc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 13,
+      "name": "Instagram",
+      "domain": "instagram.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "instagram.com",
+        "artbugle.com",
+        "queenofsands.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 14,
+      "name": "China Construction Bank",
+      "domain": "ccb.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "ccb.com",
+        "chinaconstruction.us",
+        "cmbchina.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 15,
+      "name": "Home Depot",
+      "domain": "homedepot.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "homedepot.com",
+        "home-depot.gr",
+        "homedepotretailjobs.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 16,
+      "name": "Verizon",
+      "domain": "verizon.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "verizon.com",
+        "verizonwireless.com",
+        "bluejeans.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 17,
+      "name": "Bank of China",
+      "domain": "boc.cn",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "boc.cn",
+        "abchina.com",
+        "psbc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 18,
+      "name": "Oracle",
+      "domain": "oracle.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "oracle.com",
+        "mysql.com",
+        "oraclecloud.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 19,
+      "name": "Agricultural Bank of China",
+      "domain": "abchina.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "abchina.com",
+        "boc.cn",
+        "bankofamerica.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 20,
+      "name": "Toyota",
+      "domain": "toyota.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "toyota.com",
+        "toyota-industries.com",
+        "toyotahawaii.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 21,
+      "name": "Allianz Group",
+      "domain": "allianz.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "allianz.de",
+        "allianz.fr",
+        "allianz-trade.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 22,
+      "name": "Moutai",
+      "domain": "moutaichina.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "moutai.be",
+        "moutai.it",
+        "moutaichina.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 23,
+      "name": "American Express",
+      "domain": "americanexpress.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "americanexpress.com",
+        "amexglobalbusinesstravel.com",
+        "americanexpress.ch"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 24,
+      "name": "UnitedHealthcare",
+      "domain": "uhc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "unitedhealthcare.com",
+        "uhone.com",
+        "uhchearing.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 25,
+      "name": "AT&T",
+      "domain": "att.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "attstadium.com",
+        "alienvault.com",
+        "attpurchasing.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 26,
+      "name": "Costco",
+      "domain": "costco.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "costco.com",
+        "costcoauto.com",
+        "costcowineblog.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 27,
+      "name": "Tencent",
+      "domain": "tencent.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tencent.com",
+        "qq.com",
+        "tencentmusic.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 28,
+      "name": "Shell",
+      "domain": "shell.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "shell.com",
+        "shell.us",
+        "shellenergy.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 29,
+      "name": "Disney",
+      "domain": "disneyplus.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "disney.com",
+        "disneyplus.com",
+        "shopdisney.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 30,
+      "name": "Uber",
+      "domain": "uber.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "uber.com",
+        "ubereats.com",
+        "uberhealth.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 31,
+      "name": "China Mobile",
+      "domain": "chinamobileltd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "chinamobileltd.com",
+        "china-mobile-phones.com",
+        "ems.com.cn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 32,
+      "name": "Ping An",
+      "domain": "pingan.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "pingan.com",
+        "pingidentity.com",
+        "pinganoriental.co.uk"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 33,
+      "name": "WeChat",
+      "domain": "wechat.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "wechat.com",
+        "wechatstrategy.com.hk",
+        "wechatturkiye.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 34,
+      "name": "Bank of America",
+      "domain": "bankofamerica.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bankofamerica.com",
+        "bofaml.com",
+        "bank-of-africa.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 35,
+      "name": "Aramco",
+      "domain": "aramco.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "aramco.com",
+        "aramcolife.com",
+        "saudiaramco.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 36,
+      "name": "Mercedes-Benz",
+      "domain": "mercedes-benz.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "mercedes-benz.com",
+        "mercedes-benz-clubs.com",
+        "mercedes-benz-publicarchive.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 37,
+      "name": "Coca-Cola",
+      "domain": "coca-cola.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "coca-cola.com",
+        "coca-colacompany.com",
+        "coca-colastore.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 38,
+      "name": "Hyundai Group",
+      "domain": "hyundaimotorgroup.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hyundai.com",
+        "hyundaicard.com",
+        "mobis.co.kr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 39,
+      "name": "Chase",
+      "domain": "chase.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "chase.com",
+        "jpmorganchase.com",
+        "chasepaymentech.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 40,
+      "name": "VISA",
+      "domain": "visa.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "visa.com",
+        "visaeurope.com",
+        "visasignaturehotels.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 41,
+      "name": "BMW",
+      "domain": "bmw.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bmw.com.co",
+        "bmwblog.com",
+        "bmwmotos.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 42,
+      "name": "Deloitte",
+      "domain": "deloitte.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "deloitte.com",
+        "deloitterecrute.fr",
+        "deloittedigital.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 43,
+      "name": "McDonald's",
+      "domain": "mcdonalds.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "mcdonalds.com",
+        "mcdvoice.info",
+        "mcdelivery.co.in"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 44,
+      "name": "accenture",
+      "domain": "accenture.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "accenture.com",
+        "accenturefederal.com",
+        "accenturefederaldefense.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 45,
+      "name": "NTT Group",
+      "domain": "group.ntt",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "group.ntt",
+        "nttdata.com",
+        "ntt.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 46,
+      "name": "Wells Fargo",
+      "domain": "wellsfargo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "wellsfargo.com",
+        "wellsfargoadvisors.com",
+        "wf.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 47,
+      "name": "TSMC",
+      "domain": "tsmc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "tsmc.com.tw",
+        "tsmc.dk",
+        "tsmc-trade.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 48,
+      "name": "Lowe's",
+      "domain": "lowes.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "lowes.com",
+        "lowesfoods.com",
+        "lowesmarket.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 49,
+      "name": "YouTube",
+      "domain": "youtube.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "youtube.com",
+        "youtubekids.com",
+        "about.youtube"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 50,
+      "name": "SAP",
+      "domain": "sap.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sap.com",
+        "sapiens.com",
+        "sapphireventures.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 51,
+      "name": "Starbucks",
+      "domain": "starbucks.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "starbucks.com",
+        "starbucksathome.com",
+        "starbucksflorida.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 52,
+      "name": "Mitsubishi Group",
+      "domain": "mitsubishi.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "mitsubishi-motors.com",
+        "mitsubishi-logistics.co.jp",
+        "mitsubishicorp.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 53,
+      "name": "JP Morgan",
+      "domain": "jpmorgan.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "jpmorganconstruction.com",
+        "game8.jp",
+        "jpmorgansmartretirement.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 54,
+      "name": "Volkswagen",
+      "domain": "volkswagen.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "volkswagen.com",
+        "volkswagen-group.com",
+        "vw.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 55,
+      "name": "Petrochina",
+      "domain": "petrochina.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "petrochina.com.cn",
+        "petrochinaintl.com.hk",
+        "petrochinacanada.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 56,
+      "name": "Citi",
+      "domain": "citi.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "citi.com",
+        "citigroup.com",
+        "cititrends.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 57,
+      "name": "Porsche",
+      "domain": "porsche.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "porsche.com",
+        "porsche-se.com",
+        "porsche-holding.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 58,
+      "name": "Huawei",
+      "domain": "huawei.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "huawei.com",
+        "huaweicloud.com",
+        "huaweiblog.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 59,
+      "name": "Chanel",
+      "domain": "chanel.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "chanel.com",
+        "chanelmuslim.com",
+        "chanelfetaz.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 60,
+      "name": "HSBC",
+      "domain": "hsbc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "hsbc.com",
+        "hsbc.co.uk",
+        "svns.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 61,
+      "name": "TATA Group",
+      "domain": "tata.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tata.com",
+        "tatainternationalafrica.com",
+        "tataindustries.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 62,
+      "name": "Cisco",
+      "domain": "cisco.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cisco.com",
+        "umbrella.com",
+        "meraki.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 63,
+      "name": "Mastercard",
+      "domain": "mastercard.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "mastercard.com",
+        "mastercard.us",
+        "priceless.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 64,
+      "name": "Sumitomo Group",
+      "domain": "sumitomo.gr.jp",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sumitomoelectric.com",
+        "sumitomo-rd.co.jp",
+        "sumitomo-chem.co.jp"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 65,
+      "name": "Mitsui Group",
+      "domain": "mitsui.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "smtb.jp",
+        "mitsui-onnetsu.co.jp",
+        "mitsui-cosmetics.jp"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 66,
+      "name": "Sinopec Group",
+      "domain": "sinopecgroup.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sinopecuae.com",
+        "sinopecchile.cl",
+        "repsolsinopec.com.br"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 67,
+      "name": "CATL",
+      "domain": "catl.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "catl.com",
+        "catlkstar.com",
+        "catlresources.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 68,
+      "name": "UPS",
+      "domain": "ups.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "ups.com",
+        "upstart.com",
+        "upslide.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 69,
+      "name": "EY",
+      "domain": "ey.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "ey.com",
+        "eyepromise.com",
+        "eyewearindex.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 70,
+      "name": "Louis Vuitton",
+      "domain": "louisvuitton.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "louisvuitton.com",
+        "lvoutlet.net",
+        "louisvuittonwatchprize.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 71,
+      "name": "Capital One",
+      "domain": "capitalone.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "capitalone.com",
+        "discoverfinancial.com",
+        "capital-one-banking.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 72,
+      "name": "SK Group",
+      "domain": "sk.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sk-ii.com",
+        "sk.co.kr",
+        "sk-group.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 73,
+      "name": "Santander",
+      "domain": "santander.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "santander.com",
+        "santanderbank.com",
+        "santanderconsumerusa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 74,
+      "name": "China Merchants Bank",
+      "domain": "cmbchina.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cmbchina.com",
+        "newone.com.cn",
+        "boc.cn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 75,
+      "name": "Tesla",
+      "domain": "tesla.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tesla.com",
+        "tesla.nu",
+        "teslaoracle.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 76,
+      "name": "Netflix",
+      "domain": "netflix.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "netflix.com",
+        "netflixpartners.com",
+        "netflixgames.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 77,
+      "name": "Target",
+      "domain": "target.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "target.com",
+        "targetglobal.vc",
+        "target.xn--5tzm5g"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 78,
+      "name": "Honda",
+      "domain": "honda.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "honda.com",
+        "honda.co.jp",
+        "0.honda"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 79,
+      "name": "PWC",
+      "domain": "pwc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "pwc.nl",
+        "pwc.es",
+        "pwcparts.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 80,
+      "name": "Nike",
+      "domain": "nike.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nike.com",
+        "nikeapp.com",
+        "nikeplus.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 81,
+      "name": "Wuliangye",
+      "domain": "wuliangye.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "wuliangye.it",
+        "wuliangye.be",
+        "wuliangyetogo.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 82,
+      "name": "Airbus",
+      "domain": "airbus.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "airbus.com",
+        "airbushelicopters.com",
+        "airbusds-airborne.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 83,
+      "name": "ExxonMobil",
+      "domain": "exxonmobil.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "exxonmobil.com",
+        "exxonmobilstore.com",
+        "pxd.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 84,
+      "name": "IBM Group",
+      "domain": "ibm.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ibm.biz",
+        "ibmgroup.net",
+        "ibm-seimless.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 85,
+      "name": "CSCEC",
+      "domain": "cscec.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cscec.com",
+        "cscec-sea.com",
+        "scimee.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 86,
+      "name": "Progressive",
+      "domain": "progressive.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "progressive.com",
+        "progressivecommercial.com",
+        "progressiveagent.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 87,
+      "name": "Siemens Group",
+      "domain": "siemens.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "siemens.com",
+        "siemens-energy.com",
+        "siemens-healthineers.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 88,
+      "name": "FedEx",
+      "domain": "fedex.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "fedex.com",
+        "fedexcares.com",
+        "fedexlogistics.com.au"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 89,
+      "name": "CVS",
+      "domain": "cvs.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cvs.com",
+        "cvshealth.com",
+        "cvsvets.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 90,
+      "name": "Xfinity",
+      "domain": "xfinity.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "xfinity.com",
+        "xfinitycenteramp.com",
+        "xfinitymobilearena.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 91,
+      "name": "Nestlé",
+      "domain": "nestle.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nestle.com",
+        "nestlejobs.com",
+        "jovenesnestle.com.ve"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 92,
+      "name": "General Electric",
+      "domain": "ge.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "gereports.com",
+        "gecompany.com",
+        "generalelectric-eg.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 93,
+      "name": "Boeing",
+      "domain": "boeing.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "boeing.com",
+        "boeingstore.com",
+        "bia-boeing.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 94,
+      "name": "Enterprise",
+      "domain": "enterprise.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "enterprise.com",
+        "enterprisebank.com",
+        "enterpriseproducts.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 95,
+      "name": "Dell Technologies",
+      "domain": "dell.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "dell.com",
+        "emc.com",
+        "delltechnologies.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 96,
+      "name": "TD",
+      "domain": "td.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "td.com",
+        "td.org",
+        "tdbank.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 97,
+      "name": "Goldman Sachs",
+      "domain": "goldmansachs.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "goldmansachs.com",
+        "marcus.com",
+        "goldman-sachs.ch"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 98,
+      "name": "Ford",
+      "domain": "ford.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ford.com",
+        "fordfoundation.org",
+        "tomford.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 99,
+      "name": "Hermès",
+      "domain": "hermes.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "hermes.com",
+        "hermesworld.com",
+        "nic.hermes"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 100,
+      "name": "ADNOC",
+      "domain": "adnoc.ae",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "adnoc.ae",
+        "adnoc.sch.ae",
+        "adnocdistribution.ae"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 101,
+      "name": "JD.com",
+      "domain": "jd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "jd.com",
+        "jdwl.com",
+        "jdcorporateblog.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 102,
+      "name": "Broadcom",
+      "domain": "broadcom.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "broadcom.com",
+        "bitnami.com",
+        "brocade.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 103,
+      "name": "Caterpillar",
+      "domain": "cat.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "caterpillar.com",
+        "krazycaterpillar.com",
+        "caterpillartoken.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 104,
+      "name": "China Life",
+      "domain": "e-chinalife.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "chinalife.com.cn",
+        "chinalife.com.hk",
+        "ems.com.cn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 105,
+      "name": "HCA",
+      "domain": "hcahealthcare.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hcahealthcare.com",
+        "hca.org.sg",
+        "hca.kr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 106,
+      "name": "Spectrum",
+      "domain": "spectrum.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "spectrum.life",
+        "spectrumbrands.com",
+        "spectrumreach.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 107,
+      "name": "LinkedIn",
+      "domain": "linkedin.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "linkedin.com",
+        "lnkd.in",
+        "linkedinmobileapp.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 108,
+      "name": "Optum",
+      "domain": "optum.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "optum.com",
+        "optum.co",
+        "optumbank.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 109,
+      "name": "Salesforce",
+      "domain": "salesforce.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "salesforce.com",
+        "site.com",
+        "cquotient.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 110,
+      "name": "TotalEnergies",
+      "domain": "totalenergies.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "totalenergies.com",
+        "total.it",
+        "total.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 111,
+      "name": "BP",
+      "domain": "bp.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bp.com",
+        "bpifrance.fr",
+        "bpost.be"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 112,
+      "name": "LG Group",
+      "domain": "lg.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lg.com",
+        "lg-group.com",
+        "lgcorp.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 113,
+      "name": "Rolex",
+      "domain": "rolex.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "rolex.com",
+        "carrieres-rolex.com",
+        "rolexgmt.cc"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 114,
+      "name": "Allstate",
+      "domain": "allstate.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "allstate.com",
+        "allstatenewsroom.com",
+        "allstatefoundation.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 115,
+      "name": "Aldi Süd",
+      "domain": "aldi-sued.de",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "aldi-sued.de",
+        "aldi-nord.de",
+        "aldi.us"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 116,
+      "name": "Hilton Hotels & Resorts",
+      "domain": "hilton.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hilton.com",
+        "ocmdhotels.com",
+        "hiltonworldwide.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 117,
+      "name": "AMD",
+      "domain": "amd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "amd.com",
+        "amdocs.com",
+        "amdetech.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 118,
+      "name": "PayPal",
+      "domain": "paypal.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "paypal.com",
+        "zettle.com",
+        "xoom.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 119,
+      "name": "Zara",
+      "domain": "zara.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "zara.com",
+        "zarahome.com",
+        "zarashahjahan.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 120,
+      "name": "Adidas",
+      "domain": "adidas.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "adidas.com",
+        "adidas-group.com",
+        "adidas-kiev.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 121,
+      "name": "Orange",
+      "domain": "orange.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "orange.fr",
+        "orange.com",
+        "orangejulius.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 122,
+      "name": "RBC",
+      "domain": "rbc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "rbc.com",
+        "rbc.co.jp",
+        "rbcbearings.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 123,
+      "name": "GEICO",
+      "domain": "geico.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "geico.com",
+        "geicomotorcycleinsurance.com",
+        "geicoonlinequote.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 124,
+      "name": "Barclays",
+      "domain": "barclays.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "barclays.com",
+        "barclaycardus.com",
+        "barclayscenter.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 125,
+      "name": "KPMG",
+      "domain": "kpmg.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "kpmg.com",
+        "home.kpmg",
+        "nic.kpmg"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 126,
+      "name": "Lidl",
+      "domain": "lidl.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "lidl.cz",
+        "lidl.com",
+        "lidl-hellas.gr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 127,
+      "name": "Delta",
+      "domain": "delta.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "delta.com",
+        "delta.edu",
+        "deltaww.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 128,
+      "name": "China CITIC Bank",
+      "domain": "citicbank.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "citicbank.com",
+        "cncbinternational.com",
+        "citic.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 129,
+      "name": "DBS",
+      "domain": "dbs.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "dbs.com",
+        "dbsg.com",
+        "dbs-bildung.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 130,
+      "name": "BNP Paribas",
+      "domain": "group.bnpparibas",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "group.bnpparibas",
+        "bnpparibas.de",
+        "bnpparibasfortis.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 131,
+      "name": "Generali Group",
+      "domain": "generali.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "generali.com",
+        "bancagenerali.com",
+        "generaligroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 132,
+      "name": "AXA",
+      "domain": "axa.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "axa.com",
+        "axandus.fr",
+        "axaxl.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 133,
+      "name": "Elevance Health",
+      "domain": "elevancehealth.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "elevancehealth.com",
+        "carelonbehavioralhealth.com",
+        "beaconhealthoptions.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 134,
+      "name": "Postal Savings Bank",
+      "domain": "psbc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "psbc.com",
+        "gsb.or.th",
+        "asbhawaii.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 135,
+      "name": "Charles Schwab",
+      "domain": "schwab.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "aboutschwab.com",
+        "ameritrade.com",
+        "scottrade.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 136,
+      "name": "Audi",
+      "domain": "audi.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "audi.com",
+        "audiusa.com",
+        "audi-tradition-parts.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 137,
+      "name": "Johnson & Johnson",
+      "domain": "jnj.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "jnj.com",
+        "jnjmedtech.com",
+        "jjvision.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 138,
+      "name": "LEGO",
+      "domain": "lego.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lego.com",
+        "legobatmangame.com",
+        "saudiblocks.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 139,
+      "name": "stc",
+      "domain": "stc.com.sa",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "stc.com.sa",
+        "stc.com.kw",
+        "stcu.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 140,
+      "name": "Bosch",
+      "domain": "bosch.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bosch.com",
+        "boschrexroth.com",
+        "bosch-presse.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 141,
+      "name": "Metlife",
+      "domain": "metlife.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "metlife.com",
+        "metlifestadium.com",
+        "pnbmetlife.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 142,
+      "name": "BYD",
+      "domain": "byd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "byd.com",
+        "boydgaming.com",
+        "bydauto.com.cn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 143,
+      "name": "Tesco",
+      "domain": "tesco.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tesco.com",
+        "tesco.com.jo",
+        "tescobank.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 144,
+      "name": "Fidelity",
+      "domain": "fidelity.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "fidelity.com",
+        "fidelity.co.uk",
+        "fidelitycharitable.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 145,
+      "name": "PICC",
+      "domain": "picc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "picc.com",
+        "piccsolution.com",
+        "picc-solution.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 146,
+      "name": "Pepsi",
+      "domain": "pepsi.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "pepsi.com",
+        "pepsidiner.com",
+        "pepsisummer.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 147,
+      "name": "Equinor",
+      "domain": "equinor.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "equinor.com",
+        "statoil.com",
+        "equinorfondene.no"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 148,
+      "name": "KFC",
+      "domain": "kfc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "kfc.com",
+        "kfc.co.uk",
+        "kfcbd.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 149,
+      "name": "EDF",
+      "domain": "edf.fr",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "edf.fr",
+        "edf.org",
+        "edf-re.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 150,
+      "name": "Infosys",
+      "domain": "infosys.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "infosys.com",
+        "infosysbpm.com",
+        "broadwayinfosys.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 151,
+      "name": "CRECG",
+      "domain": "crec.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "crecg.com",
+        "crecgc.org",
+        "crecgoa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 152,
+      "name": "e&",
+      "domain": "eand.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "e-noticies.cat",
+        "e-zpassny.com",
+        "eand.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 153,
+      "name": "Hitachi",
+      "domain": "hitachi.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hitachi.com",
+        "hitachienergy.com",
+        "hitachirail.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 154,
+      "name": "Cartier",
+      "domain": "cartier.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cartier.com",
+        "fondationcartier.com",
+        "cartierchevrolet.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 155,
+      "name": "Publix",
+      "domain": "publix.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "publix.com",
+        "clubpublix.com",
+        "publix-passport.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 156,
+      "name": "Purina",
+      "domain": "purina.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "purina.it",
+        "purina.pt",
+        "purina-arabia.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 157,
+      "name": "Vodafone",
+      "domain": "vodafone.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "vodafone.com",
+        "vodafone.de",
+        "vodafonegenerationnext.gr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 158,
+      "name": "Sam's Club",
+      "domain": "samsclub.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "samsclub.com",
+        "samsclubcontacts.com",
+        "samsclubchecks.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 159,
+      "name": "Chevron",
+      "domain": "chevron.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "chevron.com",
+        "chevronwithtechron.com",
+        "chevronhotels.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 160,
+      "name": "Nongfu Spring",
+      "domain": "nongfuspring.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "nongfuspring.com",
+        "springhealth.com",
+        "springboard.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 161,
+      "name": "MUFG",
+      "domain": "mufg.jp",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "mufg.jp",
+        "mufgamericas.com",
+        "mufg.ru"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 162,
+      "name": "Travelers",
+      "domain": "travelers.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "travelers.com",
+        "travelerstoday.com",
+        "travelersyard.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 163,
+      "name": "BBVA",
+      "domain": "bbva.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bbva.com",
+        "garantibbva.com",
+        "bbvaopenmind.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 164,
+      "name": "Lay's",
+      "domain": "lays.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lays.com",
+        "dousaflavor.com",
+        "laysfarmtosmiles.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 165,
+      "name": "John Deere",
+      "domain": "deere.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "deere.com",
+        "jdflorestal.com.br",
+        "consorciojohndeere.com.br"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 166,
+      "name": "Sony",
+      "domain": "sony.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sony.com",
+        "sonymusic.com",
+        "sonyfg.co.jp"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 167,
+      "name": "Bank of Communications",
+      "domain": "bankcomm.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "bankcomm.com",
+        "bankofamerica.com",
+        "bank-of-africa.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 168,
+      "name": "CPIC",
+      "domain": "cpic.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cpic.co",
+        "cpicglobal.com",
+        "chinapakinvestment.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 169,
+      "name": "LIC",
+      "domain": "licindia.in",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lic.co.nz",
+        "lic.lt",
+        "licindia.in"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 170,
+      "name": "IKEA",
+      "domain": "ikea.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "ikea.com",
+        "ikeamuseum.com",
+        "ikeahackers.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 171,
+      "name": "Walgreens",
+      "domain": "walgreens.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "walgreens.com",
+        "walgreensbootsalliance.com",
+        "wba.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 172,
+      "name": "Yili",
+      "domain": "yili.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "yili.com",
+        "ylzq-tech.com",
+        "yilitie.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 173,
+      "name": "Ferrari",
+      "domain": "ferrari.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "ferrari.com",
+        "ferrari-carano.com",
+        "ferraritrento.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 174,
+      "name": "AIA",
+      "domain": "aia.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "aia.com",
+        "aia.co.nz",
+        "ishares.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 175,
+      "name": "Universal",
+      "domain": "universalpictures.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "universal.org",
+        "universalstudioshollywood.com",
+        "universalmusic.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 176,
+      "name": "UBS",
+      "domain": "ubs.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "ubs.com",
+        "ubslifestyle.com",
+        "ubsforums.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 177,
+      "name": "Adobe",
+      "domain": "adobe.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "adobe.com",
+        "marketo.com",
+        "adobeconnect.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 178,
+      "name": "OpenAI",
+      "domain": "openai.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "openai.com",
+        "chat-gpt-israel.com",
+        "chat-gpt-suomi.fi"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 179,
+      "name": "AutoZone",
+      "domain": "autozone.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "autozone.com",
+        "autozone-mag.com",
+        "autozonemecanicos.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 180,
+      "name": "Lockheed Martin",
+      "domain": "lockheedmartin.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lockheedmartin.com",
+        "lockheed-martin.com",
+        "lockheed.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 181,
+      "name": "Corona Extra",
+      "domain": "corona.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "corona.com",
+        "corona-extra.jp",
+        "corona-extra.it"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 182,
+      "name": "Intel",
+      "domain": "intel.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "intel.com",
+        "intelcapital.com",
+        "intel.xn--fiqs8s"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 183,
+      "name": "HDFC Group",
+      "domain": "hdfc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hdfcbank.com",
+        "hdfcsec.com",
+        "hdfcsky.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 184,
+      "name": "Pinduoduo",
+      "domain": "pinduoduo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "pinduoduo.com",
+        "pinduoduo-global.com",
+        "pinduoduo1688.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 185,
+      "name": "PETRONAS",
+      "domain": "petronas.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "petronas.com",
+        "petronas.com",
+        "carigali.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 186,
+      "name": "Heineken",
+      "domain": "heineken.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "heineken.com",
+        "theheinekencompany.com",
+        "heinekenfrance.fr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 187,
+      "name": "S&P Global",
+      "domain": "spglobal.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "spglobal.com",
+        "debtdomain.com",
+        "ihs.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 188,
+      "name": "Circle K",
+      "domain": "circlek.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "circlek.com",
+        "circle.com",
+        "circle.so"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 189,
+      "name": "ING",
+      "domain": "ing.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ing.com",
+        "boehringer-ingelheim.com",
+        "ingrammicro.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 190,
+      "name": "SoftBank",
+      "domain": "softbank.jp",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "softbank.jp",
+        "softbank.co.jp",
+        "group.softbank"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 191,
+      "name": "Humana",
+      "domain": "humana.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "humana.com",
+        "humana-baby.pl",
+        "humanafoundation.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 192,
+      "name": "L'Oréal",
+      "domain": "loreal.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "loreal.com",
+        "lorealprofessionnel.com",
+        "lorealparisusa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 193,
+      "name": "Vinci",
+      "domain": "vinci.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "vinci.com",
+        "vinci-construction.com",
+        "vinci-autoroutes.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 194,
+      "name": "China Telecom",
+      "domain": "189.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ctamericas.com",
+        "ctyun.cn",
+        "china-telecommunications.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 195,
+      "name": "Morgan Stanley",
+      "domain": "morganstanley.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "morganstanley.com",
+        "morganstanely.com",
+        "calvert.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 196,
+      "name": "JR",
+      "domain": "jreast.co.jp",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "jr-central.co.jp",
+        "jrebel.com",
+        "jr.co.il"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 197,
+      "name": "United Airlines",
+      "domain": "united.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "united.com",
+        "flycua.com",
+        "mileageplusawards.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 198,
+      "name": "7-Eleven",
+      "domain": "7-eleven.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "7-eleven.com",
+        "7-11.com.tw",
+        "7-elevengsc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 199,
+      "name": "VMWARE",
+      "domain": "vmware.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "vmware.com",
+        "bit9.com",
+        "confer.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 200,
+      "name": "Brookfield",
+      "domain": "brookfield.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "brookfield.com",
+        "brookfieldbr.com",
+        "brookfieldintranet.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 201,
+      "name": "Zurich",
+      "domain": "zurich.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "zurich.com",
+        "flughafen-zuerich.ch",
+        "zurichna.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 202,
+      "name": "Japan Post Holdings",
+      "domain": "japanpost.jp",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "japanpost.jp",
+        "washingtonpost.com",
+        "yahoo.co.jp"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 203,
+      "name": "Micron",
+      "domain": "micron.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "micron.com",
+        "micron-kobe.com",
+        "micron-app.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 204,
+      "name": "CRCC",
+      "domain": "crcc.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "crcc.cn",
+        "crccertification.com",
+        "crccasia.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 205,
+      "name": "Intesa Sanpaolo",
+      "domain": "intesasanpaolo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "intesasanpaolo.com",
+        "intesa.it",
+        "intesasanpaolovita.it"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 206,
+      "name": "Philips",
+      "domain": "philips.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "philips.com",
+        "philips-hue.com",
+        "meethue.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 207,
+      "name": "U.S. Bank",
+      "domain": "usbank.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "syncada.com",
+        "army.mil",
+        "uboc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 208,
+      "name": "Red Bull",
+      "domain": "redbull.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "redbull.com",
+        "redbullracing.com",
+        "red-bull.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 209,
+      "name": "Canada Life",
+      "domain": "canadalife.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "canadalife.com",
+        "canadalifeplace.com",
+        "aircanada.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 210,
+      "name": "Taobao",
+      "domain": "taobao.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "taobao.com",
+        "taobaomanila.com",
+        "taobaotranslate.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 211,
+      "name": "booking.com",
+      "domain": "booking.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "booking.com",
+        "bookingholdings.com",
+        "bookingexperts.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 212,
+      "name": "au",
+      "domain": "au.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "au.com",
+        "autodesk.com",
+        "autonomous.ai"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 213,
+      "name": "Enel",
+      "domain": "enel.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "enel.com",
+        "enel.cl",
+        "enelx.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 214,
+      "name": "Chubb",
+      "domain": "chubb.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "chubb.com",
+        "abaseguros.com",
+        "chubbfs.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 215,
+      "name": "Dior",
+      "domain": "dior.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "dior.com",
+        "diorboutique-il.com",
+        "diortraining.it"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 216,
+      "name": "China Southern Power Grid",
+      "domain": "csg.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "csair.com",
+        "southernpowercompany.com",
+        "southernpower.co.za"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 217,
+      "name": "Chevrolet",
+      "domain": "chevrolet.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "chevrolet.com",
+        "chevroleteurope.com",
+        "chevroletnova.com.br"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 218,
+      "name": "Carrefour",
+      "domain": "carrefour.fr",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "carrefour.com",
+        "carrefour.fr",
+        "carrefouruae.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 219,
+      "name": "Xiaomi",
+      "domain": "mi.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "xiaomi.com",
+        "mi.com",
+        "mi-srbija.rs"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 220,
+      "name": "Engie",
+      "domain": "engie.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "engie.com",
+        "engie.co.uk",
+        "fondation-engie.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 221,
+      "name": "NBC",
+      "domain": "nbc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nbc.com",
+        "nbc.ca",
+        "nbcnews.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 222,
+      "name": "BMO",
+      "domain": "bmo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "bmo.com",
+        "bmoharris.com",
+        "bmoretechnology.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 223,
+      "name": "DHL",
+      "domain": "dhl.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "dhl.com",
+        "dhlecommerce.com.tr",
+        "dhlecommerce.com.tr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 224,
+      "name": "UNIQLO",
+      "domain": "uniqlo.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "uniqlo.co.jp",
+        "uniqlo.pl",
+        "uniqlo-analysis.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 225,
+      "name": "Sysco",
+      "domain": "sysco.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sysco.com",
+        "syscoireland.com",
+        "syscoevents.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 226,
+      "name": "Decathlon",
+      "domain": "decathlon.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "decathlon.fr",
+        "decathlon.com",
+        "decathloncoach.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 227,
+      "name": "CIBC",
+      "domain": "cibc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cibc.com",
+        "cibccm.com",
+        "cibcfcib.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 228,
+      "name": "Midea",
+      "domain": "midea.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "midea.com",
+        "mideastore.com.br",
+        "mideapakistan.store"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 229,
+      "name": "E.Leclerc",
+      "domain": "e.leclerc",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "e.leclerc",
+        "epicgames.com",
+        "europa.eu"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 230,
+      "name": "Tmall",
+      "domain": "tmall.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tmall.com",
+        "taobaocargo.com",
+        "tmall.aliexpress.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 231,
+      "name": "Reliance Group",
+      "domain": "reliancegroupindia.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "reliancegroupindia.com",
+        "jio.com",
+        "reliancegroupnepal.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 232,
+      "name": "Standard Chartered",
+      "domain": "sc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sc.com",
+        "scb360rewards.lk",
+        "standred.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 233,
+      "name": "Spotify",
+      "domain": "spotify.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "spotify.com",
+        "spotifypremium.jp",
+        "spoti.fi"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 234,
+      "name": "REWE",
+      "domain": "rewe.de",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "rewe.de",
+        "rewe-group.com",
+        "rewe-reisen.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 235,
+      "name": "BASF",
+      "domain": "basf.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "basf.com",
+        "basf-schwarzheide.com",
+        "basf-wohnen-und-bauen.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 236,
+      "name": "ADP",
+      "domain": "adp.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "adp.com",
+        "adpb.org.br",
+        "adpeak.ai"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 237,
+      "name": "Volvo",
+      "domain": "volvo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "volvo.com",
+        "volvocars.com",
+        "volvogroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 238,
+      "name": "Emirates",
+      "domain": "emirates.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "emirates.com",
+        "emiratesnbd.com",
+        "emiratesgroupcareers.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 239,
+      "name": "McKesson",
+      "domain": "mckesson.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "mckesson.com",
+        "relayhealth.com",
+        "mckessonspecialtyhealth.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 240,
+      "name": "Capgemini",
+      "domain": "capgemini.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "capgemini.com",
+        "capgemini-consulting.com",
+        "altran.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 241,
+      "name": "Prudential (US)",
+      "domain": "prudential.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "prudential.com",
+        "pru.co.uk",
+        "prudential-international.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 242,
+      "name": "Kia",
+      "domain": "kia.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "kia.com",
+        "kiabi.com",
+        "kiawahresort.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 243,
+      "name": "Aetna",
+      "domain": "aetna.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "aetna.com",
+        "aetnafeds.com",
+        "aetnabetterhealth.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 244,
+      "name": "QNB",
+      "domain": "qnb.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "qnb.com",
+        "qnbfinansbank.com",
+        "qnbn.qa"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 245,
+      "name": "Commonwealth Bank",
+      "domain": "commbank.com.au",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "commbank.com.au",
+        "combankltd.com",
+        "firstcomcu.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 246,
+      "name": "Michelin",
+      "domain": "michelin.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "michelin.com",
+        "michelin.fr",
+        "michelin-lifestyle.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 247,
+      "name": "Meituan",
+      "domain": "meituan.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "meituan.com",
+        "longcat.pro",
+        "meituanlz.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 248,
+      "name": "Merrill",
+      "domain": "merrill.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "merrilledge.com",
+        "ml.com",
+        "merrill.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 249,
+      "name": "Nissay/Nippon Life Insurance",
+      "domain": "nissay.co.jp",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "nipponlifebenefits.com",
+        "indusindnipponlife.com",
+        "nippon-shinyaku.co.jp"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 250,
+      "name": "Dollar General",
+      "domain": "dollargeneral.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "dollargeneral.com",
+        "dg.com",
+        "dollargeneralinc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 251,
+      "name": "Rabobank",
+      "domain": "rabobank.nl",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "rabobank.com",
+        "rabobank.nl",
+        "rabo-clubsupport.nl"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 252,
+      "name": "Lilly",
+      "domain": "lilly.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lilly.com",
+        "lillypulitzer.com",
+        "lillyy.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 253,
+      "name": "Blackrock",
+      "domain": "blackrock.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "blackrock.com",
+        "blackrock.co.jp",
+        "stonk.rocks"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 254,
+      "name": "Itaú",
+      "domain": "itau.com.br",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "itau.com.br",
+        "cubo.itau",
+        "itau.com.py"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 255,
+      "name": "Woolworths",
+      "domain": "woolworths.co.za",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "woolworths.com.au",
+        "woolworths.co.za",
+        "woolworthsgroup.com.au"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 256,
+      "name": "SBI Group",
+      "domain": "sbigroup.co.jp",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sbi-group.com",
+        "sbigrowth.com",
+        "priceintelligently.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 257,
+      "name": "O'Reilly Auto Parts",
+      "domain": "oreillyauto.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "oreillyauto.com",
+        "orileyauto.com",
+        "cskauto.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 258,
+      "name": "Edeka",
+      "domain": "edeka.de",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "edeka.de",
+        "edeka.es",
+        "edeka-foodservice.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 259,
+      "name": "Al-Rajhi Bank",
+      "domain": "alrajhibank.com.sa",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "alrajhibank.com.sa",
+        "alrajhibank.com.my",
+        "e-alrajhipharma.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 260,
+      "name": "ConocoPhillips",
+      "domain": "conocophillips.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "conocophillips.com",
+        "marathon.com",
+        "marathonoil.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 261,
+      "name": "NatWest",
+      "domain": "natwest.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "natwest.com",
+        "natwestgroup.com",
+        "headlessxp.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 262,
+      "name": "Cognizant",
+      "domain": "cognizant.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cognizant.com",
+        "trizetto.com",
+        "devbridge.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 263,
+      "name": "Honeywell",
+      "domain": "honeywell.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "honeywell.com",
+        "honeywellaidc.com",
+        "uop.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 264,
+      "name": "Northrop Grumman",
+      "domain": "northropgrumman.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "northropgrumman.com",
+        "ngc.com",
+        "atk.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 265,
+      "name": "Truist",
+      "domain": "truist.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "truist.com",
+        "truistchampionship.com",
+        "bbtroot.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 266,
+      "name": "Subway",
+      "domain": "subway.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "subway.com",
+        "subway.com.au",
+        "subwaysurfers.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 267,
+      "name": "Bell",
+      "domain": "bell.ca",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bell.ca",
+        "bell.bank",
+        "tacobell.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 268,
+      "name": "Servicenow",
+      "domain": "servicenow.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "servicenow.com",
+        "service-now.com",
+        "elementai.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 269,
+      "name": "Scotiabank",
+      "domain": "scotiabank.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "scotiabank.com",
+        "scotiabankarena.com",
+        "scotiabank-centre.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 270,
+      "name": "Lloyds",
+      "domain": "lloydsbank.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "lloyds.com",
+        "lloydsbank.com",
+        "lloydsbankinggroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 271,
+      "name": "Sephora",
+      "domain": "sephora.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sephora.com",
+        "sephorasquad.com",
+        "sephorausa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 272,
+      "name": "Shanghai Pudong Development Bank",
+      "domain": "spdb.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "kdb.co.kr",
+        "afdb.org",
+        "scsb.com.tw"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 273,
+      "name": "CNBM",
+      "domain": "cnbm.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cnbmltd.com",
+        "cnbm.mx",
+        "icnbm.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 274,
+      "name": "Industrial Bank",
+      "domain": "cib.com.cn",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cib.com.cn",
+        "ibk.co.kr",
+        "industrial-bank.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 275,
+      "name": "Monster",
+      "domain": "monsterenergy.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "monster.com",
+        "monster-strike.com",
+        "gentlemonster.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 276,
+      "name": "Sherwin-Williams",
+      "domain": "sherwin-williams.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sherwin-williams.com",
+        "sherwin.com.br",
+        "sheriwn.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 277,
+      "name": "Panasonic",
+      "domain": "panasonic.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "panasonic.com",
+        "panasonic.eu",
+        "holdings.panasonic"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 278,
+      "name": "Erste",
+      "domain": "erstegroup.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "erstegroup.com",
+        "erste.pl",
+        "erste-am.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 279,
+      "name": "Gatorade",
+      "domain": "gatorade.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "gatorade.com",
+        "illevitrain.com",
+        "eventosgatorade.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 280,
+      "name": "KBC",
+      "domain": "kbc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "kbc.com",
+        "kbc.co.jp",
+        "kbc-cinema.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 281,
+      "name": "HCLTech",
+      "domain": "hcltech.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hcltech.com",
+        "powerobjects.com",
+        "hclindustrysaas.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 282,
+      "name": "Fox",
+      "domain": "fox.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "fox.com",
+        "foxcorporation.com",
+        "foxnews.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 283,
+      "name": "Crédit Mutuel",
+      "domain": "creditmutuel.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "creditmutuel.com",
+        "cm-arkea.com",
+        "arkea.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 284,
+      "name": "Power China",
+      "domain": "powerchina.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "georgiapower.com",
+        "tatapower.com",
+        "alabamapower.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 285,
+      "name": "NetEase",
+      "domain": "netease.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "netease.com",
+        "neteasegames.com",
+        "neteasestore.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 286,
+      "name": "Coupang",
+      "domain": "coupang.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "coupang.com",
+        "aboutcoupang.com",
+        "coupangplay.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 287,
+      "name": "Gucci",
+      "domain": "gucci.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "gucci.com",
+        "guccimaneonline.com",
+        "gucci-lifestyle.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 288,
+      "name": "Crédit Agricole",
+      "domain": "credit-agricole.fr",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "credit-agricole.fr",
+        "credit-agricole.com",
+        "ca-cib.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 289,
+      "name": "Bridgestone",
+      "domain": "bridgestone.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "bridgestone.com",
+        "bridgestonetire.com",
+        "bridgestonegolf.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 290,
+      "name": "CaixaBank",
+      "domain": "caixabank.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "caixabank.com",
+        "wonnowawards.com",
+        "lacaixa.es"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 291,
+      "name": "Shinhan Financial Group",
+      "domain": "shinhangroup.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "shinhangroup.com",
+        "shinhancard.com",
+        "shinhanglobal.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 292,
+      "name": "PTT",
+      "domain": "pttplc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ptt.gov.tr",
+        "pttplc.com",
+        "pttavm.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 293,
+      "name": "Bloomberg",
+      "domain": "bloomberg.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "bloomberg.com",
+        "bloomberg.org",
+        "bgov.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 294,
+      "name": "Qualcomm",
+      "domain": "qualcomm.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "qualcomm.com",
+        "qualcommventures.com",
+        "qualcomm-inc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 295,
+      "name": "Tiffany & Co.",
+      "domain": "tiffany.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tiffany.com",
+        "tiffany.com.br",
+        "tiffanycodance.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 296,
+      "name": "Dai-Ichi Life",
+      "domain": "dai-ichi-life-hd.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "dai-ichi-life.co.jp",
+        "dai-ichi-life-hd.com",
+        "dai-ichi-life.com.vn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 297,
+      "name": "Lexus",
+      "domain": "lexus.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "lexus.com",
+        "lexusfinancial.com",
+        "discoverlexus.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 298,
+      "name": "HPE",
+      "domain": "hpe.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hpe.com",
+        "arubanetworks.com",
+        "hpeco.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 299,
+      "name": "Nissan",
+      "domain": "nissanusa.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nissan.co.jp",
+        "nissan.com",
+        "nissanusa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 300,
+      "name": "American Airlines",
+      "domain": "aa.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "aa.com",
+        "aacreditunion.org",
+        "americanairlines.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 301,
+      "name": "Eni",
+      "domain": "eni.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "eni.com",
+        "square-enix-games.com",
+        "enigma.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 302,
+      "name": "PlayStation",
+      "domain": "playstation.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "playstation.com",
+        "ghostoftsushima.com",
+        "playstationlifestyle.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 303,
+      "name": "CEEC",
+      "domain": "ceec.net.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ceec.cl",
+        "ceecorg.eu",
+        "ceectrucks.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 304,
+      "name": "TJ Maxx",
+      "domain": "tjmaxx.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "trainingjournal.com",
+        "correctpredict.com",
+        "measuringflower.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 305,
+      "name": "Aviva",
+      "domain": "aviva.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "aviva.com",
+        "aviva.co.uk",
+        "avivabroker.ie"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 306,
+      "name": "Tokio Marine",
+      "domain": "tokiomarine.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tokiomarine.com",
+        "tmhcc.com",
+        "tokiom.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 307,
+      "name": "Marubeni",
+      "domain": "marubeni.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "marubeni.com",
+        "marubeni-idigio.com",
+        "marubeni-tr.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 308,
+      "name": "Gillette",
+      "domain": "gillette.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "gillette.com",
+        "gillettevenus.com",
+        "gillettearabia.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 309,
+      "name": "Mercadona",
+      "domain": "mercadona.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "mercadona.com",
+        "mercadonatech.es",
+        "mercadonacercademi.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 310,
+      "name": "3M",
+      "domain": "3m.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "3m.com",
+        "3manager.com",
+        "3minuteangels.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 311,
+      "name": "The Hartford",
+      "domain": "thehartford.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "thehartford.com",
+        "jointhehartford.com",
+        "hartfordclub.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 312,
+      "name": "Nintendo",
+      "domain": "nintendo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nintendo.com",
+        "nintendolife.com",
+        "nintendo-europe.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 313,
+      "name": "KB Financial Group",
+      "domain": "kbfinancialgroup.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "kbfinancialgroup.com",
+        "kbfinancialcompanies.com",
+        "kbstar.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 314,
+      "name": "BAE Systems",
+      "domain": "baesystems.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "baesystems.com",
+        "riptideas.com",
+        "bolttechs.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 315,
+      "name": "Larsen & Toubro Group",
+      "domain": "larsentoubro.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "larsentoubro.com",
+        "larsentoubrovyoma.com",
+        "lnthydrocarbon.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 316,
+      "name": "Nokia",
+      "domain": "nokia.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nokia.com",
+        "bell-labs.com",
+        "infinera.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 317,
+      "name": "McKinsey & Co",
+      "domain": "mckinsey.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "mckinsey.com",
+        "mckinsey-electronics.com",
+        "mckinseychina.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 318,
+      "name": "Danone",
+      "domain": "danone.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "danone.com",
+        "danonenorthamerica.com",
+        "grupodanone.com.mx"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 319,
+      "name": "TELUS",
+      "domain": "telus.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "telus.com",
+        "telushealth.co",
+        "telusinternational.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 320,
+      "name": "Fanduel",
+      "domain": "fanduel.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "fanduel.com",
+        "fulltiltpoker.com",
+        "ps.im"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 321,
+      "name": "Chick-fil-A",
+      "domain": "chick-fil-a.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "chick-fil-a.co.uk",
+        "chick-fil-a.ca",
+        "chick-fil-afoundation.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 322,
+      "name": "Airtel",
+      "domain": "airtel.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "airtel.com",
+        "airtelkenya.com",
+        "airtelxstream.in"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 323,
+      "name": "Medtronic",
+      "domain": "medtronic.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "medtronic.com",
+        "medtronic-diabetes.com",
+        "fortimedix.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 324,
+      "name": "E.ON",
+      "domain": "eon.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "eonnext.com",
+        "eon.cz",
+        "jme.cz"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 325,
+      "name": "Modelo Especial",
+      "domain": "modelousa.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "modelo.fr",
+        "netty.fr",
+        "entities.fr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 326,
+      "name": "Rogers",
+      "domain": "rogers.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "rogers.com",
+        "rogerswest.com",
+        "rogerscorp.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 327,
+      "name": "Telstra",
+      "domain": "telstra.com.au",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "telstra.com.au",
+        "bigpond.com",
+        "telstra.com.sg"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 328,
+      "name": "Marina Bay Sands",
+      "domain": "marinabaysands.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "marina-bays.net",
+        "marinabay.al",
+        "mbferry.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 329,
+      "name": "Fresenius",
+      "domain": "fresenius.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "fresenius.com",
+        "fresenius-kabi.com",
+        "tyenne.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 330,
+      "name": "Nivea",
+      "domain": "nivea.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "nivea.com",
+        "niveausa.com",
+        "nivea-me.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 331,
+      "name": "Bouygues",
+      "domain": "bouygues.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bouygues.com",
+        "bouyguestelecom.com",
+        "bouygues-immobilier.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 332,
+      "name": "Viettel Group",
+      "domain": "viettel.com.vn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "viettelup.vn",
+        "viettelidc.com.vn",
+        "viettel.com.vn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 333,
+      "name": "ASML",
+      "domain": "asml.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "asml.com",
+        "workingatasml.com",
+        "berlinerglas.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 334,
+      "name": "Sky",
+      "domain": "sky.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sky.com",
+        "sky.de",
+        "skype.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 335,
+      "name": "Cardinal Health",
+      "domain": "cardinalhealth.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cardinalhealth.com",
+        "wavemark.net",
+        "cardinalscale.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 336,
+      "name": "HP",
+      "domain": "hp.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "hp.com",
+        "hpe.com",
+        "hpinc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 337,
+      "name": "Société Générale",
+      "domain": "societegenerale.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "societegenerale.com",
+        "societegenerale-insurance.com",
+        "sogecap.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 338,
+      "name": "Haier",
+      "domain": "haier.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "haier.com",
+        "haierappliances.com",
+        "haier-europe.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 339,
+      "name": "Budweiser",
+      "domain": "budweiser.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "budweiser.com",
+        "budweiserapac.com",
+        "dlj-bud.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 340,
+      "name": "Conad",
+      "domain": "conad.it",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "conad.it",
+        "conadalbania.al",
+        "newslettercomma.it"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 341,
+      "name": "Mahindra Group",
+      "domain": "mahindra.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "mrrcapital.com",
+        "mahindraadventure.com",
+        "techmahindra.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 342,
+      "name": "H&M",
+      "domain": "hm.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "hm.com",
+        "hmart.com",
+        "hmgroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 343,
+      "name": "Roche",
+      "domain": "roche.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "roche.com",
+        "rochebros.com",
+        "navify.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 344,
+      "name": "Deutsche Bank",
+      "domain": "deutsche-bank.de",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "db.com",
+        "deutsche-bank.de",
+        "deutsche-bank.es"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 345,
+      "name": "Kaufland",
+      "domain": "kaufland.de",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "kaufland.de",
+        "kaufland.bg",
+        "kaufland-kundenportal.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 346,
+      "name": "Kroger",
+      "domain": "kroger.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "kroger.com",
+        "thekrogerco.com",
+        "kroger-feedback.online"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 347,
+      "name": "Poste Italiane",
+      "domain": "posteitaliane.it",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "posteitaliane.it",
+        "risparmiopostale.it",
+        "laposte.fr"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 348,
+      "name": "Movistar",
+      "domain": "movistar.es",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "movistar.co",
+        "movistarplus.es",
+        "movistarteam.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 349,
+      "name": "Discover",
+      "domain": "discover.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "discover.com",
+        "discovercard.com",
+        "discoverasr.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 350,
+      "name": "Prudential",
+      "domain": "prudentialplc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "prudential.com",
+        "pru.co.uk",
+        "prucenter.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 351,
+      "name": "Tyson",
+      "domain": "tysonfoods.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "tyson.com",
+        "tysonfoods.com",
+        "tysonfoodservice.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 352,
+      "name": "Applied Materials",
+      "domain": "appliedmaterials.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "appliedmaterials.com",
+        "amat.com",
+        "think-silicon.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 353,
+      "name": "PNC",
+      "domain": "pnc.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "pnc.com",
+        "pncb.org",
+        "pnct.net"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 354,
+      "name": "Tim Hortons",
+      "domain": "timhortons.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "timhortons.com",
+        "timhortons.ca",
+        "tim-hortons.es"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 355,
+      "name": "Hyatt",
+      "domain": "hyatt.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hyatt.com",
+        "hyattinclusivecollection.com",
+        "hyattresidenceclub.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 356,
+      "name": "Jio Group",
+      "domain": "jio.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "jio.com",
+        "kivihealth.com",
+        "jio-lottery.com.co"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 357,
+      "name": "Munich Re",
+      "domain": "munichre.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "munichre.com",
+        "munichreamerica.com",
+        "munich-airport.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 358,
+      "name": "LSEG",
+      "domain": "lseg.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lseg.com",
+        "maystreet.com",
+        "lipperfundawards.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 359,
+      "name": "Cigna",
+      "domain": "cigna.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cigna.com",
+        "cignait.com",
+        "cignaglobal.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 360,
+      "name": "Nordea",
+      "domain": "nordea.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "nordea.com",
+        "nordeafinance.com",
+        "nordeamarkets.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 361,
+      "name": "Domino's Pizza",
+      "domain": "dominos.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "dominospizza.pl",
+        "dominospizza.es",
+        "dominos.vn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 362,
+      "name": "Sber",
+      "domain": "sber.ru",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "sber.pro",
+        "sberkassa.site",
+        "sber-invest.kz"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 363,
+      "name": "ICICI Group",
+      "domain": "icicibank.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "icicibank.com",
+        "iciciprulife.com",
+        "icicidirect.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 364,
+      "name": "Vanguard",
+      "domain": "vanguard.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "vanguard.com",
+        "vanguardngr.com",
+        "vanguardcharitable.org"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 365,
+      "name": "Mizuho Financial Group",
+      "domain": "mizuho-fg.co.jp",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "mizuho-fg.co.jp",
+        "mizuhogroup.com",
+        "mizuhoemea.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 366,
+      "name": "Wipro Group",
+      "domain": "wipro.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "wipro.com",
+        "metronom.com",
+        "appirio.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 367,
+      "name": "Lenovo",
+      "domain": "lenovo.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "lenovo.com",
+        "lenovosoftware.com",
+        "lenovoyoga.ro"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 368,
+      "name": "Swiss Re",
+      "domain": "swissre.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "swissre.com",
+        "swiss-re.com",
+        "post.ch"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 369,
+      "name": "BRI",
+      "domain": "bri.co.id",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bri.co.id",
+        "bri.us",
+        "britannica.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 370,
+      "name": "Taco Bell",
+      "domain": "tacobell.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tacobell.com",
+        "taco-bell.ro",
+        "tacobelltacoshop.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 371,
+      "name": "Warner Bros",
+      "domain": "warnerbros.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "warnerbros.com",
+        "wbd.com",
+        "wbgames.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 372,
+      "name": "Canon",
+      "domain": "global.canon",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "global.canon",
+        "canon.jp",
+        "canon.com.br"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 373,
+      "name": "Daiwa House",
+      "domain": "daiwahouse.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "daiwahouse.com",
+        "daiwa-grp.jp",
+        "daiwa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 374,
+      "name": "Kellogg's",
+      "domain": "kelloggs.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "kelloggs.com",
+        "kelloggsresearchlabs.com",
+        "kelloggspainting.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 375,
+      "name": "Swisscom",
+      "domain": "swisscom.ch",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "swisscom.ch",
+        "swisscom.com",
+        "swisscom-shop.ch"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 376,
+      "name": "Yahoo!",
+      "domain": "yahoo.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "yahoo.com",
+        "yahoo.co.jp",
+        "oath.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 377,
+      "name": "CBS",
+      "domain": "cbs.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cbs.com",
+        "cbssports.com",
+        "cbs17.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 378,
+      "name": "OCBC Bank",
+      "domain": "ocbc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ocbc.com",
+        "ocbcnisp.com",
+        "iocbc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 379,
+      "name": "Activision Blizzard",
+      "domain": "activisionblizzard.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "activisionblizzard.com",
+        "activision.com",
+        "antivisionblizzard.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 380,
+      "name": "Schneider Electric",
+      "domain": "se.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "schneider-electric.com",
+        "se.com",
+        "schneider-electric.us"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 381,
+      "name": "BBC",
+      "domain": "bbc.co.uk",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "bbc.com",
+        "bbc.co.uk",
+        "virtus.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 382,
+      "name": "UOB",
+      "domain": "uobgroup.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "uob.com.sg",
+        "uob.com.my",
+        "uobgroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 383,
+      "name": "Whole Foods",
+      "domain": "wholefoodsmarket.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "wholefoodsmarket.com",
+        "wholefoods.com",
+        "victoriawholefoods.ca"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 384,
+      "name": "Xbox",
+      "domain": "xbox.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "xbox.com",
+        "xbox-dns.ru",
+        "generacionxbox.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 385,
+      "name": "Rolls-Royce (Aerospace & Defence)",
+      "domain": "rolls-royce.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "rolls-royce.com",
+        "rolls-royce-smr.com",
+        "rolls-roycespectre.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 386,
+      "name": "Southwest Airlines",
+      "domain": "southwest.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "southwest.com",
+        "southwestwifi.com",
+        "southwestvacations.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 387,
+      "name": "General Dynamics",
+      "domain": "gd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "gd.com",
+        "generaldynamics.com",
+        "gdit.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 388,
+      "name": "Guerlain",
+      "domain": "guerlain.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "guerlain.com",
+        "guerlainspanyc.com",
+        "waldorfastorianewyorkspa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 389,
+      "name": "Doritos",
+      "domain": "doritos.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "doritos.com",
+        "jacklinksfritolay.com",
+        "doritospromo.az"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 390,
+      "name": "CJ Group",
+      "domain": "thecjgroup.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "thecjgroup.com",
+        "cornwelljackson.com",
+        "cjgroup.dk"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 391,
+      "name": "Veolia",
+      "domain": "veolia.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "veolia.com",
+        "veolianorthamerica.com",
+        "veoliawatertech.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 392,
+      "name": "Manulife",
+      "domain": "manulife.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "manulife.com.my",
+        "manulife.com.vn",
+        "manulifebank.ca"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 393,
+      "name": "Revolut",
+      "domain": "revolut.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "revolut.com",
+        "sauber-group.com",
+        "revolutpeople.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 394,
+      "name": "Tide",
+      "domain": "tide.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "tide.co",
+        "tide.com",
+        "tidenet.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 395,
+      "name": "Dollar Tree",
+      "domain": "dollartree.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "dollartree.com",
+        "dollargeneral.com",
+        "familydollar.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 396,
+      "name": "Bayer",
+      "domain": "bayer.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "bayer.com",
+        "bayer04.de",
+        "bayerhealthcare.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 397,
+      "name": "Abbott",
+      "domain": "abbott.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "abbott.com",
+        "abbottinvestor.com",
+        "alere.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 398,
+      "name": "Synchrony",
+      "domain": "synchrony.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "synchrony.com",
+        "mysynchrony.com",
+        "synchronybusiness.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 399,
+      "name": "Renault",
+      "domain": "renault.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "renault.com",
+        "renault.co.uk",
+        "renaultgroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 400,
+      "name": "Safran",
+      "domain": "safran-group.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "safran-group.com",
+        "safran.com",
+        "safranobuca.rs"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 401,
+      "name": "Union Pacific",
+      "domain": "up.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "up.com",
+        "uprr.com",
+        "unionpacific.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 402,
+      "name": "QuickBooks",
+      "domain": "quickbooks.intuit.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "quickbooks.com",
+        "quickbookintegration.com",
+        "quickbookstrainingcourses.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 403,
+      "name": "SF Express",
+      "domain": "sf-express.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sf-express.com",
+        "sf-encyclopedia.com",
+        "sf.dk"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 404,
+      "name": "China Minsheng Bank",
+      "domain": "cmbc.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cmbc.com.cn",
+        "cmbchina.com",
+        "boc.cn"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 405,
+      "name": "Marathon Petroleum",
+      "domain": "marathonpetroleum.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "marathonpetroleum.com",
+        "mplx.com",
+        "markwest.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 406,
+      "name": "USPS",
+      "domain": "usps.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "usps.com",
+        "uspsoig.gov",
+        "uspsoperationsanta.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 407,
+      "name": "Cathay Life Insurance",
+      "domain": "cathaylife.com.tw",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cathaylife.com.tw",
+        "cathaypacific.com",
+        "cathaybk.com.tw"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 408,
+      "name": "Free",
+      "domain": "free.fr",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "free.fr",
+        "free.nf",
+        "freepeople.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 409,
+      "name": "Marks & Spencer",
+      "domain": "marksandspencer.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "marksandspencer.com",
+        "symeonidesfashion.com",
+        "marks-clerk.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 410,
+      "name": "ABN AMRO",
+      "domain": "abnamro.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "abnamro.com",
+        "abnamrocup.nl",
+        "abnamrowtt.nl"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 411,
+      "name": "ABC",
+      "domain": "abc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "abc.net.au",
+        "abc.com",
+        "abcnews.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 412,
+      "name": "Royal Caribbean International",
+      "domain": "royalcaribbean.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "royalcaribbean.com",
+        "royalcaribbeanblog.com",
+        "royalcaribbeangroup.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 413,
+      "name": "Xinghuacun Fen Wine",
+      "domain": "fenjiu.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "naturismo.org",
+        "fen-court.com",
+        "fen-association.ch"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 414,
+      "name": "SNB",
+      "domain": "snb.com.sa",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "snb.ch",
+        "snb.it",
+        "snbchf.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 415,
+      "name": "MercadoLibre",
+      "domain": "mercadolibre.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "mercadolibre.com",
+        "amazon-mercadolibre-cursos.com",
+        "dabee.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 416,
+      "name": "Gree",
+      "domain": "gree.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "gree.com",
+        "greeonline.com",
+        "greecomfort.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 417,
+      "name": "Emirates NBD",
+      "domain": "emiratesnbd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "emiratesnbd.com",
+        "emirates.com",
+        "emiratesgroupcareers.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 418,
+      "name": "CTBC Financial",
+      "domain": "ctbc.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "ctbcbank.com",
+        "ctbc.com",
+        "taiwanchamber.cz"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 419,
+      "name": "CCCC",
+      "domain": "ccccltd.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cccc.edu",
+        "ccccltd.cn",
+        "ccccusa.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 420,
+      "name": "British Airways",
+      "domain": "britishairways.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "britishairways.com",
+        "ba.com",
+        "baplc.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 421,
+      "name": "Dr Pepper",
+      "domain": "drpepper.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "drpepper.com",
+        "keurigdrpepper.com",
+        "drpeppermuseum.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 422,
+      "name": "MSCI",
+      "domain": "msci.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "msci.com",
+        "riskmetrics.com",
+        "rcanalytics.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 423,
+      "name": "Saint-Gobain",
+      "domain": "saint-gobain.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "saint-gobain.com",
+        "constructing-sustainable-future.com",
+        "saint-gobain-glass.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 424,
+      "name": "DNB",
+      "domain": "dnb.no",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "dnb.com",
+        "dnb.no",
+        "dnbeiendom.no"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 425,
+      "name": "Valero",
+      "domain": "valero.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "valero.com",
+        "valeropayplus.com",
+        "valerofactory.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 426,
+      "name": "Genting",
+      "domain": "genting.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "genting.com",
+        "gentingsingapore.com",
+        "gentingskyworlds.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 427,
+      "name": "CNRL",
+      "domain": "cnrl.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "cnrl.fr",
+        "cnrl.com",
+        "rlfasteners.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 428,
+      "name": "CNOOC",
+      "domain": "cnoocltd.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "cnooc.com.cn",
+        "cnoocltd.com",
+        "cnoocinternational.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 429,
+      "name": "Pampers",
+      "domain": "pampers.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "pampers.com",
+        "pampers-es.com",
+        "pamperseasyups.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 430,
+      "name": "SLB",
+      "domain": "slb.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "slb.com",
+        "slbfe.lk",
+        "slbc.lk"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 431,
+      "name": "Evernorth",
+      "domain": "evernorth.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "evernorth.com",
+        "evernorthus.org",
+        "evernorthstrategy.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 432,
+      "name": "Airbnb",
+      "domain": "airbnb.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "airbnb.com",
+        "airbnbcitizen.com",
+        "luxuryretreats.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 433,
+      "name": "Lululemon",
+      "domain": "lululemon.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "lululemon.com",
+        "ivivva.com",
+        "lululemon-virtualshopping.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 434,
+      "name": "AstraZeneca",
+      "domain": "astrazeneca.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "astrazeneca.com",
+        "medimmune.com",
+        "azdnscheck.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 435,
+      "name": "Poly Development",
+      "domain": "polycn.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "poly.com",
+        "calpoly.edu",
+        "polyandbark.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 436,
+      "name": "Hannover Re",
+      "domain": "hannover-re.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "hannover-re.com",
+        "hannover-airport.de",
+        "hannover.de"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 437,
+      "name": "Iberdrola",
+      "domain": "iberdrola.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "iberdrola.com",
+        "iberdrola-bppulse.es",
+        "infigenenergy.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 438,
+      "name": "Maersk",
+      "domain": "maersk.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "maersk.com",
+        "maerskline.com",
+        "maersktankers.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 439,
+      "name": "O2",
+      "domain": "o2.co.uk",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "o2.co.uk",
+        "o2.cz",
+        "virginmediao2.co.uk"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 440,
+      "name": "Trip.com",
+      "domain": "trip.com",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "trip.com",
+        "drink-trip.com",
+        "kwiktrip.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 441,
+      "name": "BNSF",
+      "domain": "bnsf.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "bnsf.com",
+        "bnsfstore.com",
+        "bnsfnorthwest.com"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 442,
+      "name": "Raytheon",
+      "domain": "raytheon.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [
+        "raytheon.co.uk",
+        "raytheon.com.au",
+        "raytheonaustralia.com.au"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 443,
+      "name": "Sainsbury's",
+      "domain": "sainsburys.co.uk",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sainsburys.co.uk",
+        "sainsburysbank.co.uk",
+        "sainsburyssupplierevents.co.uk"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 444,
+      "name": "Sekisui House",
+      "domain": "sekisuihouse.co.jp",
+      "status": "verified",
+      "method": "brandfetch_exact_match",
+      "brandfetchCandidates": [
+        "sekisuihouse.co.jp",
+        "sekisuihouse-global.com",
+        "sekisuihouse.com.au"
+      ],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 445,
+      "name": "China Post",
+      "domain": "chinapost.com.cn",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "chinapost.com.cn",
+        "chinapost-track.com",
+        "track-chinapost.com"
+      ]
+    },
+    {
+      "rank": 446,
+      "name": "Cencora",
+      "domain": "cencora.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 447,
+      "name": "Asda",
+      "domain": "asda.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "asda.com",
+        "asda.jobs",
+        "asdanet.org"
+      ]
+    },
+    {
+      "rank": 448,
+      "name": "Indian Oil",
+      "domain": "iocl.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "iocl.com",
+        "iocxtrapower.com",
+        "indpet.com"
+      ]
+    },
+    {
+      "rank": 449,
+      "name": "BCG",
+      "domain": "bcg.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "bc.game",
+        "bcg.com",
+        "bcgsearch.com"
+      ]
+    },
+    {
+      "rank": 450,
+      "name": "Merck & Co",
+      "domain": "merck.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "merck.com"
+      ]
+    },
+    {
+      "rank": 451,
+      "name": "MediaTek",
+      "domain": "mediatek.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "mediatek.com",
+        "mediatek.tw",
+        "mediatekis.com.co"
+      ]
+    },
+    {
+      "rank": 452,
+      "name": "BDO Global",
+      "domain": "bdo.global",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "bdo.global",
+        "bdo.az",
+        "bdoslovakia.com"
+      ]
+    },
+    {
+      "rank": 453,
+      "name": "Coles",
+      "domain": "coles.com.au",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "coles.com.au",
+        "colesgroup.com.au",
+        "colesclassroom.com"
+      ]
+    },
+    {
+      "rank": 454,
+      "name": "Thermo Fisher Scientific",
+      "domain": "thermofisher.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "thermofisher.com",
+        "thermofisher.cn",
+        "trekds.com"
+      ]
+    },
+    {
+      "rank": 455,
+      "name": "Jeep",
+      "domain": "jeep.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "jeep.com",
+        "cherokeeforum.com",
+        "jeepgarage.org"
+      ]
+    },
+    {
+      "rank": 456,
+      "name": "Phillips 66",
+      "domain": "phillips66.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "phillips.com",
+        "andover.edu",
+        "phillips66.com"
+      ]
+    },
+    {
+      "rank": 457,
+      "name": "Ray-Ban",
+      "domain": "ray-ban.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "ray-ban.com",
+        "raybanmarket.ir",
+        "raybancos.com.br"
+      ]
+    },
+    {
+      "rank": 458,
+      "name": "LENNAR",
+      "domain": "lennar.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "lennar.com",
+        "lennarmortgage.com",
+        "lennartitle.com"
+      ]
+    },
+    {
+      "rank": 459,
+      "name": "Nescafé",
+      "domain": "nescafe.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "nescafe.com",
+        "dolce-gusto.es",
+        "dolce-gusto.fr"
+      ]
+    },
+    {
+      "rank": 460,
+      "name": "UniCredit",
+      "domain": "unicreditgroup.eu",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "unicredit.it",
+        "bankaustria.at",
+        "unicreditbank.ru"
+      ]
+    },
+    {
+      "rank": 461,
+      "name": "China Everbright Bank",
+      "domain": "cebbank.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "cebbank.com"
+      ]
+    },
+    {
+      "rank": 462,
+      "name": "Hang Seng Bank",
+      "domain": "hangseng.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "hangseng.com"
+      ]
+    },
+    {
+      "rank": 463,
+      "name": "ESPN",
+      "domain": "espn.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "espn.com",
+        "espncricinfo.com",
+        "espn.com.mx"
+      ]
+    },
+    {
+      "rank": 464,
+      "name": "Prada",
+      "domain": "prada.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "prada.com",
+        "pradagroup.com",
+        "pradaan.org"
+      ]
+    },
+    {
+      "rank": 465,
+      "name": "Texas Instruments",
+      "domain": "ti.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "ti.com",
+        "ti-unterrichtsmaterialien.net"
+      ]
+    },
+    {
+      "rank": 466,
+      "name": "FIS",
+      "domain": "fisglobal.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "fisglobal.com",
+        "fishersci.com",
+        "fisherinvestments.com"
+      ]
+    },
+    {
+      "rank": 467,
+      "name": "Denso",
+      "domain": "denso.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "denso.com",
+        "densoautoparts.com",
+        "denso-wave.com"
+      ]
+    },
+    {
+      "rank": 468,
+      "name": "Dove",
+      "domain": "dove.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "doversaddlery.com",
+        "dovepress.com",
+        "dove.com"
+      ]
+    },
+    {
+      "rank": 469,
+      "name": "Bodega Aurrera",
+      "domain": "bodegaaurrera.com.mx",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": []
+    },
+    {
+      "rank": 470,
+      "name": "AIG",
+      "domain": "aig.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "aig.com",
+        "aiga.org",
+        "aigdirect.com"
+      ]
+    },
+    {
+      "rank": 471,
+      "name": "Glencore",
+      "domain": "glencore.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "glencore.com",
+        "sudburyino.ca",
+        "mangoolamine.com.au"
+      ]
+    },
+    {
+      "rank": 472,
+      "name": "Lindt",
+      "domain": "lindtusa.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "lindtusa.com",
+        "lindt.jp",
+        "lindt.de"
+      ]
+    },
+    {
+      "rank": 473,
+      "name": "FAB",
+      "domain": "fab.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "fabletics.com",
+        "fabfitfun.com",
+        "fab.com"
+      ]
+    },
+    {
+      "rank": 474,
+      "name": "Subaru",
+      "domain": "subaru.jp",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "subaru.com",
+        "subaru.jp",
+        "subaruparts.com"
+      ]
+    },
+    {
+      "rank": 475,
+      "name": "Maybank",
+      "domain": "maybank2u.com.my",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "maybank2u.com.my",
+        "maybank.com",
+        "maybank.co.id"
+      ]
+    },
+    {
+      "rank": 476,
+      "name": "Suzuki",
+      "domain": "suzukicycles.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "suzukicycles.com",
+        "suzukipakistan.com",
+        "suzuki.co.id"
+      ]
+    },
+    {
+      "rank": 477,
+      "name": "Barilla",
+      "domain": "barilla.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "barilla.com",
+        "barillagroup.com",
+        "barilla-design.com"
+      ]
+    },
+    {
+      "rank": 478,
+      "name": "CNNC",
+      "domain": "cnnc.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "cnn.com",
+        "cnn.co.jp",
+        "cnnchile.com"
+      ]
+    },
+    {
+      "rank": 479,
+      "name": "BNY",
+      "domain": "bny.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "bnymellon.com",
+        "bnymellonwealth.com",
+        "bnymellonim.com"
+      ]
+    },
+    {
+      "rank": 480,
+      "name": "Leroy Merlin",
+      "domain": "leroymerlin.fr",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "leroymerlin.fr",
+        "leroymerlin.it",
+        "leroymerlin.com.br"
+      ]
+    },
+    {
+      "rank": 481,
+      "name": "Marshalls",
+      "domain": "marshalls.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "marshalls.com",
+        "marshallstreetdiscgolf.com",
+        "marshallscholarship.org"
+      ]
+    },
+    {
+      "rank": 482,
+      "name": "Luzhou Laojiao",
+      "domain": "lzlj.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "lzlj.com"
+      ]
+    },
+    {
+      "rank": 483,
+      "name": "TIM",
+      "domain": "tim.it",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "timeanddate.com",
+        "time.com",
+        "timetobreak.com"
+      ]
+    },
+    {
+      "rank": 484,
+      "name": "Huntington",
+      "domain": "huntington.com",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "huntington.com",
+        "huntington.org",
+        "huntingtonbeachca.gov"
+      ]
+    },
+    {
+      "rank": 485,
+      "name": "Mapfre",
+      "domain": "mapfre.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "mapfreinsurance.com",
+        "mapfre.com.mx",
+        "mapfre.com"
+      ]
+    },
+    {
+      "rank": 486,
+      "name": "Baidu",
+      "domain": "baidu.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "baidu.com",
+        "apollo.auto",
+        "baidu.eu"
+      ]
+    },
+    {
+      "rank": 487,
+      "name": "Swedbank",
+      "domain": "swedbank.se",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "swedbank.lv",
+        "swedbank.lt",
+        "swedbank.ee"
+      ]
+    },
+    {
+      "rank": 488,
+      "name": "Pfizer",
+      "domain": "pfizer.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "pfizer.com",
+        "pfizerpro.com",
+        "pfizer.com.br"
+      ]
+    },
+    {
+      "rank": 489,
+      "name": "ROBLOX",
+      "domain": "roblox.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "roblox.com",
+        "robloxid.com",
+        "robloxforum.com"
+      ]
+    },
+    {
+      "rank": 490,
+      "name": "Snow",
+      "domain": "snowbeer.com.cn",
+      "status": "verified",
+      "method": "manual_official_domain_override",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "snowflake.com",
+        "snowymonaro.nsw.gov.au",
+        "snowjoe.com"
+      ]
+    },
+    {
+      "rank": 491,
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "anthropics.com",
+        "anthropic.com",
+        "anthropic.io"
+      ]
+    },
+    {
+      "rank": 492,
+      "name": "Bank Mandiri",
+      "domain": "bankmandiri.co.id",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "bankmandiri.co.id",
+        "bankmandiritaspen.co.id",
+        "bankmandiri.com.sg"
+      ]
+    },
+    {
+      "rank": 493,
+      "name": "Best Buy",
+      "domain": "bestbuy.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "bestbuy.com",
+        "bestbuyautoequipment.com",
+        "bestbuybusiness.com"
+      ]
+    },
+    {
+      "rank": 494,
+      "name": "CRRC",
+      "domain": "crrcgc.cc",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "crrcgc.cc",
+        "crrc.com.cn",
+        "crrco.net"
+      ]
+    },
+    {
+      "rank": 495,
+      "name": "SABIC",
+      "domain": "sabic.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "sabic.com",
+        "sabiconstruction.com",
+        "sabic.nl"
+      ]
+    },
+    {
+      "rank": 496,
+      "name": "Starlink",
+      "domain": "starlink.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "starlink.com",
+        "starlink.qa",
+        "starlink.ru"
+      ]
+    },
+    {
+      "rank": 497,
+      "name": "Qatar Airways",
+      "domain": "qatarairways.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "qatarairways.com",
+        "qatarairwaysholidays.com",
+        "qrcargo.com"
+      ]
+    },
+    {
+      "rank": 498,
+      "name": "Cadbury",
+      "domain": "cadbury.co.uk",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "cadbury.co.uk",
+        "cadburygifting.in",
+        "cadburygiftsdirect.co.uk"
+      ]
+    },
+    {
+      "rank": 499,
+      "name": "DraftKings",
+      "domain": "draftkings.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "draftkings.com",
+        "shopdraftkings.com",
+        "draftkingsatcasinoqueen.com"
+      ]
+    },
+    {
+      "rank": 500,
+      "name": "TUI",
+      "domain": "tui.com",
+      "status": "verified",
+      "method": "clearbit_exact_match",
+      "brandfetchCandidates": [],
+      "clearbitCandidates": [
+        "tui.com",
+        "tui.nl",
+        "tuifly.be"
+      ]
+    }
+  ]
+}
